@@ -1,0 +1,12 @@
+[submodule "services/ApiGateway"]
+	path = services/ApiGateway
+	url = https://github.com/is6769/OBRM-ApiGateway
+[submodule "services/ConfigServer"]
+	path = services/ConfigServer
+	url = https://github.com/is6769/OBRM-ConfigServer
+[submodule "services/EurekaServer"]
+	path = services/EurekaServer
+	url = https://github.com/is6769/OBRM-EurekaServer
+[submodule "configs-vault"]
+	path = configs-vault
+	url = https://github.com/is6769/OBRM-ConfigsVault
