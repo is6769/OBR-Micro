@@ -10,3 +10,6 @@
 [submodule "configs-vault"]
 	path = configs-vault
 	url = https://github.com/is6769/OBRM-ConfigsVault
+[submodule "services/KeycloakEventHandler"]
+	path = services/KeycloakEventHandler
+	url = https://github.com/is6769/OBRM-KeycloakEventHandler
