@@ -13,3 +13,6 @@
 [submodule "services/KeycloakEventHandler"]
 	path = services/KeycloakEventHandler
 	url = https://github.com/is6769/OBRM-KeycloakEventHandler
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/is6769/OBRM-Frontend
